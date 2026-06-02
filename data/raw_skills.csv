@@ -1,0 +1,21 @@
+job_role,skills_required,description
+Data Scientist,Python SQL Machine Learning Statistics TensorFlow Pandas NumPy Scikit-learn Data Analysis Visualization Jupyter,Extracts insights from complex data using statistical models and ML
+DevOps Engineer,AWS Docker Kubernetes CI/CD Linux Git Ansible Terraform Jenkins Shell Scripting Monitoring,Automates deployment pipelines and manages cloud infrastructure
+Backend Developer,Java Python SQL REST APIs Django Flask PostgreSQL Redis Microservices Authentication,Builds server-side logic databases and scalable APIs
+Frontend Developer,HTML CSS JavaScript React TypeScript Vue Angular Figma UI Design Responsive,Creates interactive user interfaces and web experiences
+Machine Learning Engineer,Python TensorFlow PyTorch Deep Learning Neural Networks NLP Computer Vision MLOps Model Deployment,Builds and deploys production-grade ML systems
+Cloud Architect,AWS Azure GCP Kubernetes Docker Networking Security IAM Terraform Cost Optimization,Designs scalable and secure cloud infrastructure
+Cybersecurity Analyst,Network Security Penetration Testing SIEM Cryptography Linux Firewalls Python Forensics Ethical Hacking,Protects systems from vulnerabilities and cyber threats
+Data Engineer,Python SQL Spark Hadoop ETL Airflow Kafka AWS Data Warehousing Pipeline BigQuery,Designs and builds data pipelines and infrastructure
+Full Stack Developer,JavaScript Python React Node.js SQL MongoDB REST APIs HTML CSS Docker TypeScript,Handles both frontend and backend development end to end
+AI Research Scientist,Python Mathematics Deep Learning Research NLP Computer Vision Statistics PyTorch Publications,Advances the field of AI through original academic research
+Mobile Developer,Swift Kotlin React Native Flutter iOS Android Java REST APIs Firebase,Builds high-performance mobile applications
+Systems Administrator,Linux Windows Networking Active Directory Shell Scripting Virtualization Security Backup,Manages and maintains IT infrastructure and servers
+Database Administrator,SQL PostgreSQL MySQL Oracle MongoDB Performance Tuning Backup Recovery Query Optimization,Manages designs and optimizes enterprise database systems
+Blockchain Developer,Solidity Ethereum Smart Contracts Web3 JavaScript Cryptography DeFi NFT,Builds decentralized applications on blockchain platforms
+QA Engineer,Selenium Python Testing Automation JIRA Bug Tracking Performance Testing API Testing Pytest,Ensures software quality through systematic testing strategies
+Embedded Systems Engineer,C C++ RTOS Microcontrollers Assembly Debugging Hardware IoT Firmware,Programs low-level firmware for hardware devices and IoT systems
+NLP Engineer,Python NLP BERT Transformers spaCy NLTK Text Processing Deep Learning Hugging Face,Specializes in building natural language understanding systems
+Computer Vision Engineer,Python OpenCV TensorFlow Deep Learning Image Processing CNNs Object Detection,Builds systems that interpret and analyze visual data
+Site Reliability Engineer,Python Go Linux Kubernetes Monitoring Prometheus Grafana On-Call Automation,Ensures reliability and uptime of large-scale production systems
+Product Manager,Agile Scrum Analytics Communication Roadmapping SQL JIRA Business Strategy Metrics,Leads product vision and coordinates engineering teams
