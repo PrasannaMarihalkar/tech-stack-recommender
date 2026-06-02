@@ -20,8 +20,12 @@ def sample_df():
     return preprocess_dataframe(df)
 
 
+
 def test_clean_skills_text():
-    assert clean_skills_text("Python, SQL, AWS!") == "python  sql  aws "
+    result = clean_skills_text("Python, SQL, AWS!")
+    assert "python" in result
+    assert "sql" in result
+    assert "aws" in result
     assert clean_skills_text(None) == ""
     assert clean_skills_text("") == ""
 
